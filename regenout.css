@@ -1,4 +1,4 @@
 .fc-scroller, body {
-    scrollbar-color: var(--primary-button-bg-color) var(--transparent-color);
+    scrollbar-color: scrollbar-color: #c200c1 var(--transparent-color);
     scrollbar-width: thick;
 }
