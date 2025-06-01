@@ -15,3 +15,9 @@ body {
 .button--primary:hover {
     background-color: #11c9b0;
 }
+
+body,
+.fc-scroller {
+    scrollbar-width: thick;
+    scrollbar-color: #b0c8ba var(--transparent-color);
+}
