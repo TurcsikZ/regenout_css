@@ -1,4 +1,9 @@
-.fc-scroller, body {
-    scrollbar-color: scrollbar-color: #c200c1 var(--transparent-color);
-    scrollbar-width: thick;
+body {
+    color: #16b78d;
+    font-family: var(--font-family);
+    font-size: var(--text-default-size);
+    margin: 0;
+    overflow: auto;
+    overflow-x: hidden;
+    padding: 0;
 }
