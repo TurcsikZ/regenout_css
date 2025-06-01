@@ -1,3 +1,4 @@
-body.body-without-sidebar {
-    background-color: #e92020;
+.fc-scroller, body {
+    scrollbar-color: #ee7bea var(--transparent-color);
+    scrollbar-width: thin;
 }
